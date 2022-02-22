@@ -1,5 +1,5 @@
 # mycode
-Tracking my python code
+Tracking my Python code
 
 # mycode (Project Title)
 
